@@ -3,7 +3,7 @@
 from chalice import Chalice
 import boto.vpc
 
-app = Chalice(app_name='infrmonitor')
+app = Chalice(app_name='inframonitor')
 # app.debug = True
 
 allowed_ip = 'xxx.xxx.xxx.xxx'
