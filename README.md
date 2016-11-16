@@ -1,4 +1,4 @@
-# Automated Infrastructure Security Monitoring using FOSS - AllDayDevOps 2016
+## Automated Infrastructure Security Monitoring using FOSS - AllDayDevOps 2016
 
 This repository contains all the talk materials, video demo and AWS Lambda sample code from the talk Automated Infrastructure Security Monitoring given at All Day DevOps 2016 online conference
 
@@ -19,6 +19,6 @@ This repository contains all the talk materials, video demo and AWS Lambda sampl
 
 - PoC code [`aws-lambda-app.py`](aws-lambda-app.py)
 
-### Feedback/Suggestion
+### Feedback/Suggestions
 
 [@madhuakula](https://twitter.com/madhuakula)
