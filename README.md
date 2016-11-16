@@ -1,4 +1,4 @@
-## Automated Infrastructure Security Monitoring using FOSS - AllDayDevOps 2016
+## Automated Infrastructure Security Monitoring using FOSS - AllDayDevOps
 
 This repository contains all the talk materials, video demo and AWS Lambda sample code from the talk Automated Infrastructure Security Monitoring given at All Day DevOps 2016 online conference
 
@@ -14,8 +14,8 @@ This repository contains all the talk materials, video demo and AWS Lambda sampl
 ### AWS Lambda Chalice Code
 
 - More details about 
-    + AWS Lambda - [https://aws.amazon.com/lambda/] 
-    + Python Chalice - [https://github.com/awslabs/chalice]
+    + AWS Lambda - [https://aws.amazon.com/lambda](https://aws.amazon.com/lambda)
+    + Python Chalice - [https://github.com/awslabs/chalice](https://github.com/awslabs/chalice)
 
 - PoC code [`aws-lambda-app.py`](aws-lambda-app.py)
 
