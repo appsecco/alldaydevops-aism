@@ -9,7 +9,8 @@ This repository contains all the talk materials, video demo and AWS Lambda sampl
 
 ### Video (AllDayDevOps-AISM)
 
-*Coming Soon*
+[![Automated Infrastructure Security Monitoring - All Day DevOps](http://img.youtube.com/vi/3_HIlDm3GtM/0.jpg)](https://www.youtube.com/watch?v=3_HIlDm3GtM)
+
 
 ### AWS Lambda Chalice Code
 
